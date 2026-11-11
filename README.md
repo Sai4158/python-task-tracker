@@ -57,3 +57,17 @@ the task list before asking for a task number. Invalid input returns to the menu
 
 - Project initialized with a runnable starter.
 - Repeating menu and all core task operations implemented.
+
+## Submission files and status
+
+- `submission/task_tracker.py` is an exact copy of the verified project source.
+- `submission/session_report.pdf` records the learner-confirmed 20 minutes,
+  acceptance of the empty-list guard based on code review and assistant-run
+  checks, and the absence of personally reported manual test results.
+- `submission/ai_conversation.pdf` contains original exchanges from the current
+  activity thread in chronological order, including placeholder corrections.
+  Its opening page explains the omissions, redactions, and export cutoff.
+
+The submission package is incomplete until the original transcript of the
+separate ChatGPT planning conversation is added to `ai_conversation.pdf`.
+That conversation has been confirmed to exist but has not been supplied.
